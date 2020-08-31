@@ -1,5 +1,5 @@
 ## About me
-I'm Student of @school21moscow ("42" franchise) and Frontend Developer. I love Js ^_^.
+I'm Student of School 21 ("42" franchise) in Moscow and Frontend Developer. I love Js ^_^.
 ## Contacts
 - Instagram:    https://bit.ly/ITK-Instagram
 - Facebook:     https://bit.ly/ITK-Facebook
