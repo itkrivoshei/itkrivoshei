@@ -22,6 +22,7 @@
 </a>
 
 <br/>
+<br/>
 
 - 🔭 I’m currently working on School 21 Projects.
 - 🌱 I’m currently learning JavaScript.
