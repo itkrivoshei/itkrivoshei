@@ -31,7 +31,7 @@
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ITKrivoshey](https://twitter.com/ITKrivoshey) , [Youtube - @IT-Krivoshey](https://www.youtube.com/c/ITKrivoshey)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to Run and code on Js.
+- ⚡ Fun fact: I love to Run and Code.
 
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Krivoshey&theme=light&hide_langs_below=1" />
