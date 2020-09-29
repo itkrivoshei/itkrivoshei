@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
 - 🤔 I’m looking for help with JavaScript and React.
 - 💬 Ask me about JavaScript or React.
-- 📫 How to reach me: [Twitter - @ITKrivoshey](https://twitter.com/ITKrivoshey) , [Youtube - @IT-Krivoshey](https://www.youtube.com/c/ITKrivoshey)
+- 📫 How to reach me: [Facebook - @ITKrivoshey](https://www.facebook.com/ITKrivoshey)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Run and Code.
 
