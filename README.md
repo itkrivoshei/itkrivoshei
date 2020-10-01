@@ -31,7 +31,7 @@
 - 💬 Ask me about JavaScript or React.
 - 📫 How to reach me: [Facebook - @ITKrivoshey](https://www.facebook.com/ITKrivoshey)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to Run and Code.
+- ⚡ Fun fact: I love to Run more than Code.
 
 <a href="https://github.com/IT-Krivoshey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Krivoshey&theme=light&hide_langs_below=1" />
