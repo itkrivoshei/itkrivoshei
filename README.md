@@ -1,4 +1,4 @@
-## Hello Сбер! I'm Krivoshey Nikita 👋
+## Hello! I'm Krivoshey Nikita 👋
 <a href="https://twitter.com/ITKrivoshey">
 	<img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
