@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning JavaScript and React and other web tools.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
 - 🤔 I’m looking for help with JavaScript and React.
-- 💬 Ask me about JavaScript or React.
+- 💬 Ask me about Web Tools.
 - 📫 How to reach me: [Facebook - @ITKrivoshey](https://www.facebook.com/ITKrivoshey)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Run more than Code.
