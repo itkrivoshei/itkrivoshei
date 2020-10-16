@@ -30,7 +30,7 @@
 - 🤔 I’m looking for help with Web Tools (TS).
 - 💬 Ask me about Web Tools.
 - 📫 How to reach me: [Facebook - @ITKrivoshey](https://www.facebook.com/ITKrivoshey)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love to Run more than Code.
 
 <a href="https://github.com/IT-Krivoshey">
