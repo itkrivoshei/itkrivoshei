@@ -23,7 +23,6 @@
 
 <br/>
 <br/>
-
 - 🔭 I’m currently working on [@school21moscow](https://github.com/school21moscow) and JS Projects.
 - 🌱 I’m currently learning JavaScript and React and other web tools (TS).
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
