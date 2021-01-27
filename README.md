@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
 - 🤔 I’m looking for help with Web Tools (TS).
 - 💬 Ask me about Web Tools.
-- 📫 How to reach me: [Telegram @itkrivoshey](https://t.me/ITKrivoshey)
+- 📫 How to reach me: [Telegram](https://t.me/ITKrivoshey)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love to Run more than Code.
 <br/>
