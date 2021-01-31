@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning JS/TS, React and Angular.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
 - 🤔 I’m looking for help with Web.
-- 💬 Ask me about Web Tools.
+- 💬 Ask me about Front-End.
 - 📫 How to reach me: [Telegram](https://t.me/ITKrivoshey)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love to Run more than Code.
