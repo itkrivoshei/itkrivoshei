@@ -13,12 +13,6 @@
 </a>
 <br/>
 <br/>
-<a href="https://github.com/IT-Krivoshey">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
-</a>
-<br/>
-<br/>
-
 - 🔭 I’m currently working on [@school21moscow](https://github.com/school21moscow) and [RTLabs](https://www.rtlabs.ru/) Angular Projects.
 - 🌱 I’m currently learning JS/TS, React and Angular.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
@@ -31,4 +25,7 @@
 
 <a href="https://github.com/IT-Krivoshey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Krivoshey&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/IT-Krivoshey">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
