@@ -25,7 +25,7 @@
 <br/>
 
 <a href="https://github.com/IT-Krivoshey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=dracula&hide=issues,contribs&line_height=30px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=dracula&hide=issues,contribs" />
 </a>
 <a href="https://github.com/IT-Krivoshey">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=tokyonight&hide=issues,contribs" />
