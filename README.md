@@ -11,8 +11,8 @@
 <a href="https://www.youtube.com/c/ITKrivoshey">
 	<img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<br/>
-<br/>
+<br>
+<br>
 
 - 🔭 I’m currently working on [@school21moscow](https://github.com/school21moscow) & [RTLabs](https://www.rtlabs.ru/) Projects.
 - 🌱 I’m currently learning JS/TS, React & Angular.
@@ -27,6 +27,7 @@
 <a href="https://github.com/IT-Krivoshey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Krivoshey&theme=tokyonight&hide=c,makefile,shell&langs_count=8&layout=compact" />
 </a>
+<br>
 <a href="https://github.com/IT-Krivoshey">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
 </a>
