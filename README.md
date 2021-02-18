@@ -1,6 +1,6 @@
 ## Hello my friend! I'm Krivoshey Nikita 👋
 <a href="https://www.linkedin.com/in/itkrivoshey">
-	<img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+	<img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 <a href="https://t.me/ITKrivoshey">
 	<img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -9,7 +9,7 @@
 	<img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/c/ITKrivoshey">
-	<img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+	<img align="left" alt="Pawan's Youtube" width="22px" src="https://www.flaticon.com/authors/pixel-perfect" />
 </a>
 <br>
 <br>
