@@ -1,15 +1,15 @@
 ## Hello my friend! I'm Krivoshey Nikita 👋
 <a href="https://www.linkedin.com/in/itkrivoshey">
-	<img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
+	<img align="left" alt="Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 <a href="https://t.me/ITKrivoshey">
-	<img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+	<img align="left" alt="Telegram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" />
 </a>
 <a href="https://www.instagram.com/itkrivoshey">
-	<img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+	<img align="left" alt="Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a>
 <a href="https://www.youtube.com/c/ITKrivoshey">
-	<img align="left" alt="Pawan's Youtube" width="22px" src="https://www.flaticon.com/authors/pixel-perfect" />
+	<img align="left" alt="Youtube" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />
 </a>
 <br>
 <br>
