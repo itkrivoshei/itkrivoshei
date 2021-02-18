@@ -8,7 +8,6 @@
 - 📫 How to reach me: [Telegram](https://t.me/ITKrivoshey).
 - 😄 Pronouns: He/His.
 <br>
-
 <a href="https://www.linkedin.com/in/itkrivoshey">
 	<img align="left" alt="Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
@@ -21,7 +20,8 @@
 <a href="https://www.youtube.com/c/ITKrivoshey">
 	<img align="left" alt="Youtube" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />
 </a>
-<br/>
+<br>
+<br>
 
 <a href="https://github.com/IT-Krivoshey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Krivoshey&theme=tokyonight&hide=c,makefile,shell&langs_count=8&layout=compact" />
