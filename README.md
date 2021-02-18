@@ -1,12 +1,14 @@
 ## Hello my friend! I'm Krivoshey Nikita 👋
 - 🔭 I’m currently working on [@school21moscow](https://github.com/school21moscow) & [RTLabs](https://www.rtlabs.ru/) Projects.
 - 🌱 I’m currently learning JS/TS, React & Angular.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
 - ⚡ Fun fact: I love to Run more than Code.
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
 - 💬 Ask me about Front-End development.
 - 🤔 I’m looking for help with Web.
 - 📫 How to reach me: [Telegram](https://t.me/ITKrivoshey).
 - 😄 Pronouns: He/His.
+<br>
+
 <a href="https://www.linkedin.com/in/itkrivoshey">
 	<img align="left" alt="Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
