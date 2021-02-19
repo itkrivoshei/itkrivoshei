@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [@school21moscow](https://github.com/school21moscow) & [RTLabs](https://www.rtlabs.ru/) Projects.
 - 🌱 I’m currently learning JS/TS, React & Angular.
-- ⚡ Fun fact: I love to Run more than Code.
+- ⚡ Fun fact: I love to [Run](https://bit.ly/ITK-Strava) more than Code.
 - 💬 Ask me about Front-End development.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
 - 🤔 I’m looking for help with Web.
