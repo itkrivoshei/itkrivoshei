@@ -14,7 +14,6 @@
 <br>
 <br>
 
-
 - 🔭 I’m currently working on [@school21moscow](https://github.com/school21moscow) & [RTLabs](https://www.rtlabs.ru/) Projects.
 - 🌱 I’m currently learning JS/TS, React & Angular.
 - ⚡ Fun fact: I love to [Run](https://bit.ly/ITK-Strava) more than Code.
