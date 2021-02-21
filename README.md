@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ITKrivoshey).
 - 🤔 I’m looking for help with Web.
 - 📫 How to reach me: [Telegram](https://t.me/ITKrivoshey).
-- - 💬 Ask me about Front-End.
+- 💬 Ask me about Front-End.
 - 😄 Pronouns: He/His.
 <br>
 
