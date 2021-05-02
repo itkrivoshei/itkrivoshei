@@ -1,4 +1,4 @@
-## Hello my friend! I'm Krivoshey Nikita 👋
+## I'm Krivoshey Nikita 👋
 <a href="https://www.linkedin.com/in/itkrivoshey">
 	<img align="left" alt="Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
