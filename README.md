@@ -15,7 +15,7 @@
 	</div>
 <br>
 <br>
-
+<div align="center">
 - 🔭 I’m currently working on [@school21moscow](https://github.com/school21moscow) & [RTLabs](https://www.rtlabs.ru/) Projects.
 - 🌱 I’m currently learning JS/TS, React & Angular.
 - ⚡ Fun fact: I love to [Run](https://bit.ly/ITK-Strava) more than Code.
@@ -24,6 +24,7 @@
 - 📫 How to reach me: [Telegram](https://t.me/ITKrivoshey).
 - 💬 Ask me about Front-End.
 - 😄 Pronouns: He/His.
+</div>
 <br>
 <a href="https://github.com/IT-Krivoshey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Krivoshey&theme=tokyonight&hide=c,makefile,shell&langs_count=8&layout=compact" />
