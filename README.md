@@ -1,5 +1,5 @@
 ## Hey I'm Krivoshey Nikita 👋
-&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/itkrivoshey">
+<a href="https://www.linkedin.com/in/itkrivoshey">&nbsp
 	<img align="left" alt="Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 <a href="https://t.me/ITKrivoshey">
