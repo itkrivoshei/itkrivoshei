@@ -8,7 +8,8 @@
 <a href="https://www.instagram.com/itkrivoshey">
 	<img align="left" alt="Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a>
-![](https://raw.githubusercontent.com/IT-Krivoshey/IT-Krivoshey/blob/master/Hello.mp4)
+
+![](https://raw.githubusercontent.com/IT-Krivoshey/IT-Krivoshey/master/Hello.mp4)
 
 <br>
 <br>
