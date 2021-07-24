@@ -14,10 +14,10 @@
 </p>
 <a href="https://www.linkedin.com/in/itkrivoshey">
 <img alt="Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /> 
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://t.me/ITKrivoshey">
 <img alt="Telegram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" /> 
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/itkrivoshey">
 <img alt="Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a><br><br>
