@@ -1,25 +1,15 @@
 <div align='center'>
 <p>
-<a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/FEXRJO8fot495Aqhhv/giphy.gif" width="25px"></a>
- &nbsp;
-<a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/FEXRJO8fot495Aqhhv/giphy.gif" width="25px"></a>
- &nbsp;
-<a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/FEXRJO8fot495Aqhhv/giphy.gif" width="25px"></a>
 &nbsp;&nbsp;&nbsp;<b>Hi there</b>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/FEXRJO8fot495Aqhhv/giphy.gif" width="25px"></a>
-&nbsp;
-<a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/FEXRJO8fot495Aqhhv/giphy.gif" width="25px"></a>
- &nbsp;
-<a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/FEXRJO8fot495Aqhhv/giphy.gif" width="25px"></a>
 </p>
 <a href="https://bit.ly/ITK-LinkedIn">
-<img alt="Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://bit.ly/ITK-Telegram">
-<img alt="Telegram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" /> 
+<img alt="Linkdein" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /> 
 </a>&nbsp;&nbsp;
 <a href="https://bit.ly/ITK-Instagram">
-<img alt="Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
+<img alt="Instagram" width="32px" src="https://media.giphy.com/media/50s0IhH5UTmVMyOkwm/giphy.gif" />
+</a>&nbsp;&nbsp;
+<a href="https://bit.ly/ITK-Telegram">
+<img alt="Telegram" width="30px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /> 
 </a><br><br>
 
 ![Hi](https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif)
@@ -30,6 +20,8 @@
 </p>
 
 <!--
+<a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/3o7aCR3rMAF1RxgmZO/giphy.gif" width="25px"></a>
+<a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/cUx6iFUKjzNY9mc1Iy/giphy.gif" width="25px"></a>
 - 🔭 I’m currently working on [@school21moscow](https://github.com/school21moscow) & [RTLabs](https://www.rtlabs.ru/) Projects.
 - ⚡ Fun fact: I love to [Run](https://bit.ly/ITK-Strava) more than Code.
 - 📫 How to reach me: [Telegram](https://t.me/ITKrivoshey).
