@@ -1,20 +1,11 @@
 <div align='center'>
-<p>
-&nbsp;&nbsp;&nbsp;<b>Hi there</b>&nbsp;&nbsp;&nbsp;
-</p>
-<a href="https://bit.ly/ITK-LinkedIn">
-<img alt="Linkdein" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /> 
-</a>&nbsp;&nbsp;
-<a href="https://bit.ly/ITK-Instagram">
-<img alt="Instagram" width="32px" src="https://media.giphy.com/media/50s0IhH5UTmVMyOkwm/giphy.gif" />
-</a>&nbsp;&nbsp;
-<a href="https://bit.ly/ITK-Telegram">
-<img alt="Telegram" width="30px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /> 
-</a><br><br>
-
+<p>&nbsp;&nbsp;&nbsp;<b>Hi there</b>&nbsp;&nbsp;&nbsp;</p>
+<a href="https://bit.ly/ITK-LinkedIn"><img alt="Linkdein" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /></a>&nbsp;&nbsp;
+<a href="https://bit.ly/ITK-Instagram"><img alt="Instagram" width="32px" src="https://media.giphy.com/media/50s0IhH5UTmVMyOkwm/giphy.gif" /></a>&nbsp;&nbsp;
+<a href="https://bit.ly/ITK-Telegram"><img alt="Telegram" width="30px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /></a><br><br>
+ 
 ![Hi](https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif)
 </div>
-
 <p align="center" href="https://github.com/IT-Krivoshey">
  <img src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
 </p>
