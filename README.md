@@ -30,9 +30,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
 </a>
 
-
 **Schweinepriester/Schweinepriester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
