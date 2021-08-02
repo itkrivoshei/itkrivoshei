@@ -17,7 +17,6 @@
 - 📫 How to reach me: [Telegram](https://t.me/ITKrivoshey).
 
 ![](https://komarev.com/ghpvc/?username=IT-Krivoshey)
-
 <br>
 <a href="https://github.com/IT-Krivoshey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Krivoshey&theme=tokyonight&hide=c,makefile,shell&langs_count=8&layout=compact" />
