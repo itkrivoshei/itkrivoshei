@@ -9,7 +9,6 @@
 <p align="center" href="https://github.com/IT-Krivoshey">
  <img src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
 </p>
-
 <!--
 <a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/3o7aCR3rMAF1RxgmZO/giphy.gif" width="25px"></a>
 <a href="https://github.com/IT-Krivoshey"><img src="https://media.giphy.com/media/cUx6iFUKjzNY9mc1Iy/giphy.gif" width="25px"></a>
