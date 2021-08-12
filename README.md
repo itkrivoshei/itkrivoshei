@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on [@school21moscow](https://github.com/school21moscow) & [RTLabs](https://www.rtlabs.ru/) Projects.
 - ⚡ Fun fact: I love to [Run](https://bit.ly/ITK-Strava) more than Code.
 - 📫 How to reach me: [Telegram](https://t.me/ITKrivoshey).
-
 ![](https://komarev.com/ghpvc/?username=IT-Krivoshey)
 <br>
 <a href="https://github.com/IT-Krivoshey">
