@@ -1,6 +1,6 @@
 <div align='center'>
 <p>&nbsp;&nbsp;&nbsp;<h1>Hi there</h1>&nbsp;&nbsp;&nbsp;</p>
-<a href="https://bit.ly/ITK-Telegram"><img alt="Telegram" width="30px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /></a><br><br>
+<a href="https://t.me/itkrivoshei"><img alt="Telegram" width="30px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /></a><br><br>
  
 ![Hi](https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif)
 </div>
