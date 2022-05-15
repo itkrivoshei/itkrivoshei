@@ -1,11 +1,10 @@
 <div align='center'>
-<p>&nbsp;&nbsp;&nbsp;<h1>Hi there</h1>&nbsp;&nbsp;&nbsp;</p>
 <a href="https://t.me/itkrivoshei"><img alt="Telegram" width="30px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /></a><br><br>
  
 ![Hi](https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif)
 </div>
-<p align="center" cursor="default" href="https://github.com/itkrivoshei">
- <img href="https://github.com/itkrivoshei" src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
 </p>
 <!--
 <a href="https://github.com/itkrivoshei"><img src="https://media.giphy.com/media/3o7aCR3rMAF1RxgmZO/giphy.gif" width="25px"></a>
