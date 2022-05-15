@@ -4,7 +4,7 @@
  
 ![Hi](https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif)
 </div>
-<p align="center" href="https://github.com/IT-Krivoshey">
+<p align="center" href="https://github.com/itkrivoshei">
  <img src="https://github-readme-stats.vercel.app/api?username=IT-Krivoshey&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
 </p>
 <!--
