@@ -8,7 +8,7 @@
 	</a>
 	<br><br>
 	<a href="https://supportukrainenow.org/">
-		<img width="150" alt="Support Ukraine" src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif"/>
+		<img width="100" alt="Support Ukraine" src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif"/>
 	</a>
 	<!-- 	
 	<a href="https://github.com/itkrivoshei">
