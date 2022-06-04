@@ -14,4 +14,8 @@
 	<a href="https://github.com/itkrivoshei">
 		<img src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
 	</a>
+	<br><br>
+	<a href="https://github.com/itkrivoshei">
+		<img src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif"/>
+	</a>
 </div>
