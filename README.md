@@ -1,13 +1,13 @@
 <div align='center'>
 	<a href="https://t.me/itkrivoshei">
-		<img alt="Telegram" width="300" src="https://media.giphy.com/media/g8XwBTgbU6YZdkC8Db/giphy.gif"/>
+		<img alt="Telegram" width="30" src="https://media.giphy.com/media/g8XwBTgbU6YZdkC8Db/giphy.gif"/>
 	</a>
 	<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 	<a href="https://www.linkedin.com/in/itkivoshei/">
 		<img alt="LinkedIn" width="30" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif"/>
 	</a>
 	<br><br>
-	<a href="https://supportukrainenow.org/">
+	<a href="https://supportukrainenow.org/" width="300">
 		<img alt="Support Ukraine" width="300" src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif"/>
 	</a>
 	<!-- 	
