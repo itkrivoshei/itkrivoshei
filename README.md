@@ -10,6 +10,7 @@
 
 ![Hi](https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif)
 </div>
-<a align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
-</a>
+
+<div align="center">
+	<a href="hiii"><img src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" /></a>
+</div>
