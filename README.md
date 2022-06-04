@@ -7,9 +7,7 @@
 		<img alt="LinkedIn" width="30" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif"/>
 	</a>
 	<br><br>
-	<a href="https://supportukrainenow.org/" target="_blank">
-		<img src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif" alt="Support Ukraine" width="300" />
-	</a>
+	<a href="https://supportukrainenow.org/" target="_blank"><img alt="Support Ukraine" width="300" src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif"/></a>
 	<!-- 	
 	<a href="https://github.com/itkrivoshei">
 		<img src="https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif"/>
