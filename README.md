@@ -7,8 +7,8 @@
 		<img alt="LinkedIn" width="30" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif"/>
 	</a>
 	<br><br>
-	<button href="https://supportukrainenow.org/" width="300" height="300">
-		<img alt="Support Ukraine" width="300" src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif"/>
+	<button href="https://supportukrainenow.org/" width="300" >
+		<img alt="Support Ukraine" src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif"/>
 	</button>
 	<!-- 	
 	<a href="https://github.com/itkrivoshei">
@@ -17,6 +17,6 @@
 	-->
 	<br><br>
 	<a href="https://github.com/itkrivoshei">
-		<img src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" />
+		<img src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px"/>
 	</a>
 </div>
