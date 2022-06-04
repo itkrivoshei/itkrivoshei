@@ -7,9 +7,9 @@
 		<img alt="LinkedIn" width="30" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif"/>
 	</a>
 	<br><br>
-	<button href="https://supportukrainenow.org/" width="300" >
+	<a href="https://supportukrainenow.org/" width="300" >
 		<img alt="Support Ukraine" src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif"/>
-	</button>
+	</a>
 	<!-- 	
 	<a href="https://github.com/itkrivoshei">
 		<img src="https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif"/>
