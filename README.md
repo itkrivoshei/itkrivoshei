@@ -7,7 +7,7 @@
 		<img alt="LinkedIn" width="30" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif"/>
 	</a>
 	<br><br>
-	<a href="https://supportukrainenow.org/">
+	<a href="https://supportukrainenow.org/" target="_blank">
 		<img src="https://media.giphy.com/media/qMrJi5C3xQWb0vDjlY/giphy.gif" alt="Support Ukraine" width="300" />
 	</a>
 	<!-- 	
