@@ -7,7 +7,7 @@
 		<img alt="LinkedIn" width="30" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif"/>
 	</a>
 	<br><br>
-	<a href="[https://t.me/itkrivoshei](https://github.com/itkrivoshei)">
+	<a href="https://github.com/itkrivoshei">
 		<img alt="Telegram" src="https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif"/>
 	</a>
 	<br><br>
