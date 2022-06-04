@@ -12,5 +12,5 @@
 </div>
 
 <div align="center">
-	<a href="hiii"><img src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" /></a>
+	<a href="https://github.com/itkrivoshei"><img src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px" /></a>
 </div>
