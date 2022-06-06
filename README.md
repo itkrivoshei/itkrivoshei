@@ -11,14 +11,8 @@
 		<img alt="Strava" width="30" src="https://media.giphy.com/media/j1zKcGCoA2x973R4G0/giphy.gif"/>
 	</a>
 	<br><br>
-	<a href="https://supportukrainenow.org/">
-		<img width="85" alt="Support Ukraine" src="https://media.giphy.com/media/IGhNl9gE5kEN8Oqh2Z/giphy.gif"/>
-	</a>
-	<!-- 	
-	<a href="https://github.com/itkrivoshei">
-		<img src="https://media.giphy.com/media/TA5UdQTc3NVKg/giphy.gif"/>
-	</a> 
-	-->
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 	<br><br>
 	<a href="https://github.com/itkrivoshei">
 		<img src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=tokyonight&hide=issues,contribs&line_height=30px"/>
