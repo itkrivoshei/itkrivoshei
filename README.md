@@ -9,7 +9,5 @@
 
 ## 📈 Stats
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&layout=compact&&theme=dracula&hide=C&&hide_border=true)](https://github.com/itkrivoshei)
-
-[![](https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&hide=issues,contribs&hide_border=true)](https://github.com/itkrivoshei)
-
+[![](https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&line_height=24&&hide=issues&hide_border=true)](https://github.com/itkrivoshei)
 [![](https://github-readme-streak-stats.herokuapp.com?user=itkrivoshei&theme=dracula&hide_border=true)](https://github.com/itkrivoshei)
