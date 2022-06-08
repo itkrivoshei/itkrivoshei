@@ -8,11 +8,11 @@
 
 #### Repository stats
 <div align="center">
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=itkrivoshei&theme=dracula" target="_blank">
+ <a href="https://github.com/itkrivoshei" target="_blank">
    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=itkrivoshei&theme=dracula" /> &nbsp;
  </a>
     
- <a href="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true" target="_blank">
+ <a href="https://github.com/itkrivoshei" target="_blank">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&hide=issues,contribs" />
  </a>
 </div>
