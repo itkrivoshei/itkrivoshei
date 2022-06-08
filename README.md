@@ -7,7 +7,20 @@
 
 
 #### Repository stats
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+<div align="center">
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=itkrivoshei&theme=dracula" target="_blank">
+   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=itkrivoshei&theme=dracula" /> &nbsp;
+ </a>
+    
+ <a href="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true" target="_blank">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&hide=issues,contribs" />
+ </a>
+</div>
+
+##
+
+<div align="center">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&layout=compact&hide=html&theme=dracula" target="_blank">
+       <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&layout=compact&&theme=dracula&hide=C" />  
+   </a> 
 </div>
