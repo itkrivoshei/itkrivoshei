@@ -10,14 +10,13 @@
 ## 📈 Stats
  <!----><div align="center">
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&layout=compact&&theme=dracula&hide=C&&hide_border=true")](https://www.youtube.com/watch?v=jHjFxJVeCQs?autoplay=1)
-  [![](https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&line_height=24&&hide=issues&hide_border=true")](https://www.youtube.com/watch?v=jHjFxJVeCQs?autoplay=1)
-  [![](https://github-readme-streak-stats.herokuapp.com?user=itkrivoshei&theme=dracula&hide_border=true")](https://www.youtube.com/watch?v=jHjFxJVeCQs?autoplay=1)</div>
+  [![](https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&line_height=24&&hide=issues&hide_border=true")](https://www.youtube.com/watch?v=rz5TGN7eUcM?autoplay=1)
+  [![](https://github-readme-streak-stats.herokuapp.com?user=itkrivoshei&theme=dracula&hide_border=true")](https://www.youtube.com/watch?v=J---aiyznGQ?autoplay=1)</div>
 
 <!--
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 https://www.youtube.com/watch?v=QH2-TGUlwu4
 https://www.youtube.com/watch?v=jHjFxJVeCQs
-https://www.youtube.com/watch?v=QH2-TGUlwu4
 https://www.youtube.com/watch?v=J---aiyznGQ
 https://www.youtube.com/watch?v=OQSNhk5ICTI
 https://www.youtube.com/watch?v=HPPj6viIBmU
