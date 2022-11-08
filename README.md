@@ -8,10 +8,11 @@
 [![Strava](https://img.shields.io/badge/Strava-fc4c02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/itkrivoshei)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakrivoshei@gmail.com)</div>
 ##
- <!----><div align="center"><br>
-  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&layout=compact&&theme=dracula&hide=C&&hide_border=true")](https://www.youtube.com/watch?v=jHjFxJVeCQs?autoplay=1)
-  [![](https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&line_height=24&&hide=issues&hide_border=true")](https://www.youtube.com/watch?v=rz5TGN7eUcM?autoplay=1)
-  [![](https://github-readme-streak-stats.herokuapp.com?user=itkrivoshei&theme=dracula&hide_border=true")](https://www.youtube.com/watch?v=J---aiyznGQ?autoplay=1)</div>
+<!----><div align="center"><br>
+ [<img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&layout=compact&&theme=dracula&hide=C&&hide_border=true" />](https://www.youtube.com/watch?v=J---aiyznGQ?autoplay=1)
+ [<img height=165 width=490 src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&&hide=issues&hide_border=true" />](https://www.youtube.com/watch?v=jHjFxJVeCQs?autoplay=1)
+ [<img height=165 src="https://github-readme-streak-stats.herokuapp.com?user=itkrivoshei&theme=dracula&hide_border=true" />](https://www.youtube.com/watch?v=HPPj6viIBmU?autoplay=1)
+</div>
 
 <!--
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
