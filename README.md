@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakrivoshei@gmail.com)</div>
 ##
 <!----><div align="center"><br>
- [<img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&layout=compact&&theme=dracula&hide=HTML,CSS,SCSS&&hide_border=true" />](https://github.com/itkrivoshei)
+ [<img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&layout=compact&&theme=dracula&hide=HTML,CSS,SCSS,Python&&hide_border=true" />](https://github.com/itkrivoshei)
  [<img height=165 width=490 src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&&hide=issues&hide_border=true" />](https://github.com/itkrivoshei)
  [<img height=165 src="https://github-readme-streak-stats.herokuapp.com?user=itkrivoshei&theme=dracula&hide_border=true" />](https://github.com/itkrivoshei)
 </div>
