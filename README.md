@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 ##
-<br>[![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&duration=1000&color=ff79c6&vCenter=true&multiline=true&width=406&height=70&lines=%24+whoami;developer+and+runner;&#10240;)](https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1)
+<br>[![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&duration=1000&color=ff79c6&vCenter=true&multiline=true&width=406&height=70&lines=%24+whoami;developer+und+runner;&#10240;)](https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1)
 ## 
 <!----><div align="center"><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itkivoshei)
