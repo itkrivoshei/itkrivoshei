@@ -1,34 +1,40 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+## About
 
-##
+I'm **Nikita Krivoshei**, a **DevOps-focused Software Engineer** based in Berlin.
 
-<br>[![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&duration=1000&color=ff79c6&vCenter=true&multiline=true&width=406&height=70&lines=%24+whoami;developer+und+runner;⠀)](https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1)
+I have **4+ years of software engineering experience** across production web platforms, public-sector systems, CI/CD workflows, release support, debugging, and cross-team delivery.
 
-##
+**Currently focused on:**
 
-<!----><div align="center"><br>
+- Linux, Bash, system administration, and networking
+- Containerization, Docker, and deployment automation
+- CI/CD with GitHub Actions, Jenkins, and GitLab
+- Kubernetes, Helm, GitOps, and cloud infrastructure
+- Terraform, AWS, monitoring, reliability, and production support
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itkivoshei)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itkrivoshei)
-[![Strava](https://img.shields.io/badge/Strava-fc4c02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/itkrivoshei)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakrivoshei@gmail.com)</div>
+**Open to remote roles in DevOps, Cloud, Platform Engineering, and Build & Release.**
 
-##
+---
 
-<!----><div align="center"><br>
+## Tech Focus
 
-[<img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkrivoshei&layout=compact&&theme=dracula&hide=HTML,CSS,SCSS,Python,Cython,C&&hide_border=true" />](https://github.com/itkrivoshei)
-[<img height=165 width=490 src="https://github-readme-stats.vercel.app/api?username=itkrivoshei&show_icons=true&theme=dracula&include_all_commits=true&&hide=issues&hide_border=true" />](https://github.com/itkrivoshei)
-[<img height=165 src="https://github-readme-streak-stats.herokuapp.com?user=itkrivoshei&theme=dracula&hide_border=true" />](https://github.com/itkrivoshei)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
-</div>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![GitLab](https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 
-<!--
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-https://www.youtube.com/watch?v=QH2-TGUlwu4
-https://www.youtube.com/watch?v=jHjFxJVeCQs
-https://www.youtube.com/watch?v=J---aiyznGQ
-https://www.youtube.com/watch?v=OQSNhk5ICTI
-https://www.youtube.com/watch?v=HPPj6viIBmU
-https://www.youtube.com/watch?v=rz5TGN7eUcM
--->
+---
+
+## Current Direction
+
+```bash
+devops-plan --focus linux,docker,cicd,kubernetes,aws,terraform
