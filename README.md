@@ -1,22 +1,30 @@
+<div align="center">
+
+# Nikita Krivoshei
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1200&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=90&lines=devops-focused+software+engineer;linux+%7C+docker+%7C+cicd+%7C+cloud)](https://github.com/itkrivoshei)
+
+**Open to DevOps, Cloud, Platform Engineering, and Build & Release roles**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itkivoshei)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itkrivoshei)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakrivoshei@gmail.com)
+
+</div>
+
 ## About
 
 I'm **Nikita Krivoshei**, a **DevOps-focused Software Engineer** based in Berlin.
 
-I have **4+ years of software engineering experience** across production web platforms, public-sector systems, CI/CD workflows, release support, debugging, and cross-team delivery.
+I have **4+ years of software engineering experience** across production web platforms, public-sector systems, release workflows, debugging, and cross-team delivery.
 
-**Currently focused on:**
+My background is in **software engineering** and **frontend development**. My current direction is **DevOps, Cloud Engineering, Platform Engineering, and production-oriented infrastructure work**.
 
-- Linux, Bash, system administration, and networking
-- Containerization, Docker, and deployment automation
-- CI/CD with GitHub Actions, Jenkins, and GitLab
-- Kubernetes, Helm, GitOps, and cloud infrastructure
-- Terraform, AWS, monitoring, reliability, and production support
+## DevOps Focus & Tooling
 
-**Open to remote roles in DevOps, Cloud, Platform Engineering, and Build & Release.**
-
-<br>
-
-## Tech Focus
+### Systems, Containers & Cloud
 
 [![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -25,16 +33,19 @@ I have **4+ years of software engineering experience** across production web pla
 [![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
 
+### CI/CD, Delivery & Reliability
+
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
 [![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=D24939)](https://www.jenkins.io/)
 [![GitLab](https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://about.gitlab.com/)
+[![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639)](https://nginx.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus&logoColor=E6522C)](https://prometheus.io/)
 
-<br>
+### Software Engineering Background
 
-## Current Direction
-
-```bash
-devops-plan --focus linux,docker,cicd,kubernetes,aws,terraform
+[![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=009688)](https://restfulapi.net/)
