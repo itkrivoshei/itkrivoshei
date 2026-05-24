@@ -1,51 +1,37 @@
-<div align="center">
-
 # Nikita Krivoshei
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1200&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=90&lines=devops-focused+software+engineer;linux+%7C+docker+%7C+cicd+%7C+cloud)](https://github.com/itkrivoshei)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
-**Open to DevOps, Cloud, Platform Engineering, and Build & Release roles**
+DevOps-focused software engineer based in Berlin, with a software engineering background and current focus on Linux, containers, CI/CD, cloud infrastructure, and production-oriented delivery.
 
-<br>
+## Current focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itkivoshei)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itkrivoshei)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakrivoshei@gmail.com)
+- Linux, Bash, system administration, and networking fundamentals
+- Docker, containerized development, and reproducible local environments
+- CI/CD workflows, build automation, and release reliability
+- Cloud infrastructure, Terraform, Kubernetes, and observability fundamentals
+- Software engineering practices from frontend and production web platform work
 
-</div>
+## Technical background
 
-## About
+- Frontend engineering with TypeScript, JavaScript, Angular, React, and Node.js
+- Production web systems, debugging, release workflows, and cross-team delivery
+- Databases, REST APIs, Git workflows, and maintainable project structure
+- Current direction: DevOps, Cloud Engineering, Platform Engineering, and Build & Release engineering
 
-I'm **Nikita Krivoshei**, a **DevOps-focused Software Engineer** based in Berlin.
+## Repository scope
 
-I have **4+ years of software engineering experience** across production web platforms, public-sector systems, release workflows, debugging, and cross-team delivery.
+This repository contains the GitHub profile README for `itkrivoshei`.
 
-My background is in **software engineering** and **frontend development**. My current direction is **DevOps, Cloud Engineering, Platform Engineering, and production-oriented infrastructure work**.
+It does not contain an application, package, deployment, or build pipeline.
 
-## DevOps Focus & Tooling
+## Links
 
-### Systems, Containers & Cloud
+- GitHub: [github.com/itkrivoshei](https://github.com/itkrivoshei)
+- LinkedIn: [linkedin.com/in/itkivoshei](https://www.linkedin.com/in/itkivoshei)
+- Telegram: [t.me/itkrivoshei](https://t.me/itkrivoshei)
+- Email: [nikitakrivoshei@gmail.com](mailto:nikitakrivoshei@gmail.com)
 
-[![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA)](https://www.terraform.io/)
-[![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+## License
 
-### CI/CD, Delivery & Reliability
-
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
-[![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=D24939)](https://www.jenkins.io/)
-[![GitLab](https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://about.gitlab.com/)
-[![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639)](https://nginx.org/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus&logoColor=E6522C)](https://prometheus.io/)
-
-### Software Engineering Background
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=009688)](https://restfulapi.net/)
+This repository is licensed under the [MIT License](LICENSE).
