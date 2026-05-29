@@ -2,9 +2,10 @@
 
 # Nikita Krivoshei
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1200&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=90&lines=devops-focused+software+engineer;linux+%7C+docker+%7C+cicd+%7C+cloud)](https://github.com/itkrivoshei)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1200&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=90&lines=devops+%2F+software+engineer;linux+%7C+docker+%7C+cicd+%7C+cloud)](https://github.com/itkrivoshei)
 
-**Open to DevOps, Cloud, Platform Engineering, and Build & Release roles**
+**DevOps / Software Engineer**  
+CI/CD · Linux · Docker · Kubernetes · Terraform · AWS
 
 <br>
 
@@ -16,11 +17,13 @@
 
 ## About
 
-I'm **Nikita Krivoshei**, a **DevOps-focused Software Engineer** based in Berlin.
+I'm **Nikita Krivoshei**, a **DevOps / Software Engineer** based in Berlin.
 
-I have **4+ years of software engineering experience** across production web platforms, public-sector systems, release workflows, debugging, and cross-team delivery.
+I have **4+ years of experience** in production software delivery, release workflows, debugging, and large-scale digital platforms.
 
-My background is in **software engineering** and **frontend development**. My current direction is **DevOps, Cloud Engineering, Platform Engineering, and production-oriented infrastructure work**.
+My engineering background covers **TypeScript, React, Angular, REST APIs, test/staging environments, Jenkins-based workflows, GitLab workflows, release validation, technical documentation, and production troubleshooting**.
+
+Current focus: **Linux, Docker, CI/CD, Terraform, Kubernetes, cloud infrastructure, monitoring, and deployment automation**.
 
 ## DevOps Focus & Tooling
 
@@ -31,7 +34,7 @@ My background is in **software engineering** and **frontend development**. My cu
 [![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA)](https://www.terraform.io/)
-[![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://aws.amazon.com/)
 
 ### CI/CD, Delivery & Reliability
 
