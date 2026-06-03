@@ -2,53 +2,42 @@
 
 # Nikita Krivoshei
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1200&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=90&lines=devops+%2F+software+engineer;linux+%7C+docker+%7C+cicd+%7C+cloud)](https://github.com/itkrivoshei)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=65&lines=%24+deploy+--target+production;checks+passed+%C2%B7+release+ready)](https://github.com/itkrivoshei)
 
-**DevOps / Software Engineer**  
-CI/CD · Linux · Docker · Kubernetes · Terraform · AWS
+**DevOps-focused Software Engineer**  
+Production delivery · CI/CD · Linux · Docker · Kubernetes · Terraform · AWS
 
-<br>
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itkivoshei)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itkrivoshei)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakrivoshei@gmail.com)
+[![Website](https://img.shields.io/badge/Website-itkrivoshei.github.io-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0f172a)](https://itkrivoshei.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Krivoshei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/itkivoshei)
+[![Telegram](https://img.shields.io/badge/Telegram-itkrivoshei-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a)](https://t.me/itkrivoshei)
+[![Email](https://img.shields.io/badge/Email-nikitakrivoshei%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:nikitakrivoshei@gmail.com)
 
 </div>
 
 ## About
 
-I'm **Nikita Krivoshei**, a **DevOps / Software Engineer** based in Berlin.
+Software Engineer based in Berlin, focused on CI/CD, cloud infrastructure, platform automation, and production delivery.
 
-I have **4+ years of experience** in production software delivery, release workflows, debugging, and large-scale digital platforms.
+4+ years of experience across production web platforms, release workflows, debugging, test/staging environments, API integrations, technical documentation, and cross-team delivery.
 
-My engineering background covers **TypeScript, React, Angular, REST APIs, test/staging environments, Jenkins-based workflows, GitLab workflows, release validation, technical documentation, and production troubleshooting**.
+Current focus: Linux, Docker, Kubernetes, Terraform, AWS, GitHub Actions, monitoring, deployment automation, and reliable delivery pipelines.
 
-Current focus: **Linux, Docker, CI/CD, Terraform, Kubernetes, cloud infrastructure, monitoring, and deployment automation**.
+## Current Focus
 
-## DevOps Focus & Tooling
+Building [Production App Infrastructure](https://github.com/itkrivoshei/production-app-infrastructure): a DevOps-focused project around Dockerized services, CI/CD, observability, security checks, load testing, and rollback workflows.
 
-### Systems, Containers & Cloud
+## Core Tooling
 
-[![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA)](https://www.terraform.io/)
-[![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://aws.amazon.com/)
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,aws,githubactions,gitlab,jenkins,nginx,prometheus,grafana,ts,nodejs,react,angular,postgres,py&theme=dark&perline=9"
+    alt="Linux, Bash, Docker, Kubernetes, Terraform, AWS, GitHub Actions, GitLab, Jenkins, Nginx, Prometheus, Grafana, TypeScript, Node.js, React, Angular, PostgreSQL, Python"
+  />
+</p>
 
-### CI/CD, Delivery & Reliability
-
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
-[![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=D24939)](https://www.jenkins.io/)
-[![GitLab](https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://about.gitlab.com/)
-[![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639)](https://nginx.org/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus&logoColor=E6522C)](https://prometheus.io/)
-
-### Software Engineering Background
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=009688)](https://restfulapi.net/)
+**Infrastructure & Cloud:** Linux · Bash · Docker · Kubernetes · Terraform · AWS · Nginx  
+**CI/CD & Delivery:** GitHub Actions · Jenkins · GitLab CI/CD · release workflows · deployment validation  
+**Reliability:** Prometheus · Grafana · monitoring · troubleshooting · production debugging  
+**Software Engineering:** TypeScript · JavaScript · Node.js · React · Angular · REST APIs · PostgreSQL
