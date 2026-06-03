@@ -35,11 +35,6 @@ Building [Production App Infrastructure](https://github.com/itkrivoshei/producti
   />
 </p>
 
-**Infrastructure:** Linux · Bash · Docker · Kubernetes · Terraform · AWS · Nginx
-**Delivery:** GitHub Actions · Jenkins · GitLab CI/CD · release workflows · deployment validation
-**Reliability:** Prometheus · Grafana · monitoring · troubleshooting · production debugging
-**Engineering:** TypeScript · JavaScript · Node.js · React · Angular · REST APIs · PostgreSQL · Python
-
 **Infrastructure & Cloud:** Linux · Bash · Docker · Kubernetes · Terraform · AWS · Nginx  
 **CI/CD & Delivery:** GitHub Actions · Jenkins · GitLab CI/CD · release workflows · deployment validation  
 **Reliability:** Prometheus · Grafana · monitoring · troubleshooting · production debugging  
