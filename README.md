@@ -10,7 +10,7 @@ Production delivery · CI/CD · Linux · Docker · Kubernetes · Terraform · AW
 <br />
 
 [![Website](https://img.shields.io/badge/Website-itkrivoshei.github.io-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0f172a)](https://itkrivoshei.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Krivoshei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/itkivoshei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Krivoshei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/itkrivoshei)
 [![Telegram](https://img.shields.io/badge/Telegram-itkrivoshei-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a)](https://t.me/itkrivoshei)
 [![Email](https://img.shields.io/badge/Email-nikitakrivoshei%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:nikitakrivoshei@gmail.com)
 
