@@ -6,7 +6,7 @@
 
 **Infrastructure-Focused Software Engineer**
 
-Production delivery · CI/CD · Linux · Docker · Terraform · Cloud Infrastructure
+Production delivery&nbsp;· CI/CD&nbsp;· Linux&nbsp;· Docker&nbsp;· Terraform&nbsp;· Cloud Infrastructure
 
 [![Website](https://img.shields.io/badge/Website-itkrivoshei.github.io-2ea44f?style=for-the-badge\&logo=githubpages\&logoColor=white\&labelColor=0f172a)](https://itkrivoshei.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Krivoshei-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0f172a)](https://www.linkedin.com/in/itkrivoshei)
