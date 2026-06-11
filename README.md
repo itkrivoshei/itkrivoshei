@@ -33,7 +33,7 @@ Building [Production App Infrastructure](https://github.com/itkrivoshei/producti
 
 </div>
 
-**Infrastructure & Cloud:** Linux · Bash · Docker · Docker Compose · Terraform · AWS · Nginx  
-**CI/CD & Release Engineering:** GitHub Actions · GitLab CI/CD · Jenkins · image builds · release checks · deployment validation  
-**Observability & Reliability:** Prometheus · Grafana · metrics · log analysis · health checks · troubleshooting · rollback workflows  
-**Software Engineering:** TypeScript · JavaScript · Node.js · REST APIs · React · Angular · Python
+* **Infrastructure & Cloud:** Linux · Bash · Docker · Docker Compose · Terraform · AWS · Nginx
+* **CI/CD & Release Engineering:** GitHub Actions · GitLab CI/CD · Jenkins · image builds · release checks · deployment validation
+* **Observability & Reliability:** Prometheus · Grafana · metrics · log analysis · health checks · troubleshooting · rollback workflows
+* **Software Engineering:** TypeScript · JavaScript · Node.js · REST APIs · React · Angular · Python
