@@ -17,7 +17,7 @@ Production delivery · CI/CD · Linux · Docker · Terraform · Cloud Infra
 
 ## About
 
-Software Engineer based in Berlin with 4+ years of experience across production web platforms, release workflows, staging environments, API-driven systems, technical documentation, debugging, and production-oriented troubleshooting.
+Software Engineer based in Berlin with experience in production web platforms, release workflows, staging environments, API-driven systems, technical documentation, debugging, and production-oriented troubleshooting.
 
 Currently focused on Linux systems, containerized applications, CI/CD, infrastructure automation, observability, deployment workflows, and reliable delivery pipelines.
 
