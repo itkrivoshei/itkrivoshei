@@ -17,7 +17,7 @@ Frontend Engineering · Cloud Infrastructure · DevOps · Production Delivery
 
 ## About
 
-Software Engineer based in Berlin.
+Software Engineer and Runner based in Berlin.
 
 My work spans frontend engineering, API integrations, automated testing, CI/CD, Linux systems, containerized applications, cloud infrastructure, observability, deployment workflows, and production troubleshooting.
 
